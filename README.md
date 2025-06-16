@@ -39,8 +39,7 @@ The system uses a supervisor agent to analyze user input and delegate tasks to t
 
 1. Clone the repository:
    ```bash
-   git clone 
-   cd <repository-directory>
+   git clone https://github.com/s1hetu/github_automation_agentic_system.git
    ```
    
 2. Create a virtual environment and activate it:
